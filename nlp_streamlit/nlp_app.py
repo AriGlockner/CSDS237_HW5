@@ -4,7 +4,7 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from textblob import TextBlob
 import re
 
-# nltk.download('wordnet')
+nltk.download('wordnet')
 
 # Create a GUI that takes user input for sentiment analysis
 # Provide a title
